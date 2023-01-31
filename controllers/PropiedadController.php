@@ -11,4 +11,8 @@ class PropiedadController {
     public static function crear() {
         echo "crear propiedad";
     }
+
+    public static function actualizar() {
+        echo "actualizar propiedad";
+    }
 }
